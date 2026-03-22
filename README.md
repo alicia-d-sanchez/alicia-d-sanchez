@@ -20,14 +20,13 @@ When I'm not building models, you'll find me practicing yoga or challenging myse
       
 ## 🔭 What I'm Currently Working On 
 
-- **Mexico in the Headlines:** Building an NLP pipeline and XGBoost sentiment classifier to analyze 18 months of New York Times coverage on Mexico under Claudia Sheinbaum's presidency 
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Mexico in the Headlines:** Building an NLP pipeline and XGBoost sentiment classifier to analyze 18 months of New York Times coverage on Mexico under Claudia Sheinbaum's presidency.
+- **Robotics Course Website:** Developing a centralized web resource for Monmouth University's robotics curriculum and student projects in collaboration with Professor Wang.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Exploring transformer-based models and advanced NLP techniques including sentiment analysis and text classification.
+- Deepening knowledge of LLM alignment methods including DPO and RLHF through coursework and independent research.
 
 ## 🛠️ Technical Skillset
 
