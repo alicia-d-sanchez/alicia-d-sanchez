@@ -17,12 +17,10 @@ My focus is on developing end-to-end machine learning pipelines, from data colle
 
 When I'm not building models, you'll find me practicing yoga or challenging myself with sudoku puzzles. I love the moment when a model finally converges or a pattern in the data reveals something unexpected.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+- **Mexico in the Headlines:** Building an NLP pipeline and XGBoost sentiment classifier to analyze 18 months of New York Times coverage on Mexico under Claudia Sheinbaum's presidency 
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
