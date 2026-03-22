@@ -30,27 +30,27 @@ When I'm not building models, you'll find me practicing yoga or challenging myse
 
 ## 🛠️ Technical Skillset
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Programming Languages
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/R-Intermediater-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
 </p>
 
-#### Programming & Automation
+#### AI/ML & NLP
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/TensorFlow%20%2F%20Keras-Intermediate-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+  <img src="https://img.shields.io/badge/Scikit--learn-Intermediate-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn Badge">
+  <img src="https://img.shields.io/badge/HuggingFace-Intermediate-FFD21E?style=flat&logo=huggingface&logoColor=black" alt="HuggingFace Badge">
+  <img src="https://img.shields.io/badge/LangChain-Intermediate-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain Badge">
 </p>
 
-#### Business Intelligence & Analytics
+#### Data & Tools
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas Badge">
+  <img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy Badge">
+  <img src="https://img.shields.io/badge/Matplotlib-Intermediate-ffffff?style=flat&logo=matplotlib&logoColor=black" alt="Matplotlib Badge">
+  <img src="https://img.shields.io/badge/Google%20Colab-Advanced-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab Badge">
+  <img src="https://img.shields.io/badge/Git-Intermediate-F05032?style=flat&logo=git&logoColor=white" alt="Git Badge">
 </p>
