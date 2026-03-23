@@ -1,7 +1,7 @@
 ## Hi there, I'm Alicia 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6FB1&center=true&vCenter=true&width=800&lines=Aspiring+AI%2FML+Engineer+%7C+NLP+%26+LLM+Developer;Graduate+CS+Student+%40+Monmouth+University;Prompting+%7C+Fine-Tuning+%7C+RAG+Pipelines;Building+Intelligent+Systems+from+Text+to+Prediction" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Aspiring+AI%2FML+Engineer+%7C+NLP+%26+LLM+Developer;Graduate+CS+Student+%40+Monmouth+University;Prompting+%7C+Fine-Tuning+%7C+RAG+Pipelines;Building+Intelligent+Systems+from+Text+to+Prediction" alt="Typing SVG" />
 </div>
 
 <p align="center">
